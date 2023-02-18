@@ -6,7 +6,7 @@ export default function Home() {
   const test = '123123';
 
   return (
-    <div>
+    <div className='text-xl'>
       <p>asdasdasd</p>
       <p>{test}</p>
     </div>
